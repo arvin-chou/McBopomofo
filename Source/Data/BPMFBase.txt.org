@@ -4113,6 +4113,7 @@
 攷 ㄎㄠˇ kao3 dl3 big5
 薧 ㄎㄠˇ kao3 dl3 big5
 洘 ㄎㄠˇ kao3 dl3 big5
+靠 ㄎㄠˋ kao4 dl4 big5
 銬 ㄎㄠˋ kao4 dl4 big5
 犒 ㄎㄠˋ kao4 dl4 big5
 肯 ㄎㄣˇ ken3 dp3 big5
@@ -4218,6 +4219,7 @@
 皯 ㄍㄢˇ gan3 e03 big5
 盰 ㄍㄢˇ gan3 e03 big5
 赶 ㄍㄢˇ gan3 e03 big5
+幹 ㄍㄢˋ gan4 e04 big5
 贛 ㄍㄢˋ gan4 e04 big5
 凎 ㄍㄢˋ gan4 e04 big5
 淦 ㄍㄢˋ gan4 e04 big5
